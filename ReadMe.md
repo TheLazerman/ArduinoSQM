@@ -14,3 +14,6 @@ In addition to the SQM_TSL2591 library you will need the Adafruit-GFX-Library-ma
 TSL2591 Library:
 https://github.com/gshau/SQM_TSL2591
 
+Adafruit Sensor Library:
+https://github.com/adafruit/Adafruit_Sensor
+
